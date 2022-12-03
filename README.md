@@ -16,7 +16,7 @@ The poducts  plan, let's fighting for Material Studios !!!
 - Adsorption Locator: to find the most stable adsorption sites for various materials, including zeolites, carbon nanotubes, silica gel, and activated carbon
 - CASTEP: to predict electronic, optical, and structural properties
 - ONETEP: to perform linear-scaling density functional theory simulations
-- DMol3: quantum mechanical methods to predict materials properties[5]
+- DMol3: quantum mechanical methods to predict materials properties
 - Sorption: to predict fundamental properties, such as sorption isotherms (or loading curves) and Henry's constants
 - VAMP: high-speed calculation of a variety of physical and chemical molecular properties, e.g., for quick screening during drug discovery
 - QSAR, QSAR Plus: to identify compounds with optimal physicochemical properties.
@@ -29,3 +29,14 @@ The poducts  plan, let's fighting for Material Studios !!!
  - Materials Visualizer is used to construct/import graphical models of materials.
  - Accurate structure is determined by quantum mechanical, semi-empirical, or classical simulation.
  - Various required properties may be predicted/analyzed.
+
+Basic workflow
+Materials Visualizer is used to construct/import graphical models of materials
+Accurate structure is determined by quantum mechanical, semi-empirical, or classical simulation
+Various required properties may be predicted/analyzed
+
+- [Quantum chemistry computer programs](https://en.wikipedia.org/wiki/Quantum_chemistry_computer_programs)
+- [Comparison of software for molecular mechanics modeling](https://en.wikipedia.org/wiki/Comparison_of_software_for_molecular_mechanics_modeling)
+- [Molecular design software](https://en.wikipedia.org/wiki/Molecular_design_software)
+- [List of software for Monte Carlo molecular modeling](https://en.wikipedia.org/wiki/List_of_software_for_Monte_Carlo_molecular_modeling)
+- [List of software for nanostructures modeling](https://en.wikipedia.org/wiki/List_of_software_for_nanostructures_modeling)
