@@ -1,6 +1,7 @@
 # advanced-simulation-studio
 The poducts  plan, let's fighting for Material Studios !!!
 
+## Introduction
 - A firm specializing in research software for computational chemistry, bioinformatics, cheminformatics, molecular dynamics simulation, and quantum mechanics.
 - This software is used in advanced research of various materials, such as polymers, carbon nanotubes, catalysts, metals, ceramics, and so on, by universities , research centers, and high tech companies.
 
@@ -22,3 +23,9 @@ The poducts  plan, let's fighting for Material Studios !!!
 - Polymers and Classical Simulation: to construct and characterize models of isolated chains or bulk polymers and predict their properties
 - Materials Component Collection
 - Materials Visualizer
+
+
+## Basic workflow
+ - Materials Visualizer is used to construct/import graphical models of materials.
+ - Accurate structure is determined by quantum mechanical, semi-empirical, or classical simulation.
+ - Various required properties may be predicted/analyzed.
